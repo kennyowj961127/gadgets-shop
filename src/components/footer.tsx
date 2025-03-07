@@ -3,8 +3,8 @@ import Link from 'next/link';
 export const Footer = () => (
   <footer className='bg-background h-16 flex items-center border-t'>
     <div className='container flex items-center flex-wrap justify-between px-4 md:px-6'>
-      <Link href='https://github.com/serkanaplan' className='text-lg font-bold' prefetch={false}>
-        Serkan Kaplan
+      <Link href='https://github.com/kennyowj961127' className='text-lg font-bold' prefetch={false}>
+        Kenny
       </Link>
       <nav className='flex items-center flex-wrap space-x-4 text-sm'>
         <Link href='#' className='hover:underline' prefetch={false}>
